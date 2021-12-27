@@ -1,0 +1,15 @@
+BodyWeight    300.0
+dtype: float64BloodGlucose    101.833333
+
+dtype: float64BodyWeight    305.666667
+dtype: float64BloodGlucose    109.333333
+
+dtype: float64BodyWeight    314.5
+dtype: float64BloodGlucose    107.333333
+
+dtype: float64BodyWeight    325.833333
+dtype: float64BloodGlucose    103.5
+
+dtype: float64BodyWeight    330.0
+dtype: float64BloodGlucose    97.5
+dtype: float64
